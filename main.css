@@ -1,0 +1,16 @@
+html {
+height: 100%;
+font-family: Times New Roman;
+font-size: 12;
+background-image: url("http://getwallpapers.com/wallpaper/full/4/9/5/1197375-amazing-background-pictures-for-computer-1920x1080-samsung-galaxy.jpg");
+background-position: center;
+-webkit-background-size: cover;
+-moz-background-size: cover; 
+background-size: cover;
+}
+body { 
+color: white;
+}
+
+a {
+	color: red;
